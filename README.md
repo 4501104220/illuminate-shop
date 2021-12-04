@@ -1,2 +1,2 @@
 # illuminate-shop
-Illuminate's Shop
+Shop Illuminate | Team Illuminate

@@ -1,7 +1,7 @@
 {
   "name": "illuminate-shop",
   "version": "1.0.0",
-  "description": "MERN Shopping Cart App Using Redux",
+  "description": "Shop Illuminate | MERN Shopping Cart App Using Redux",
   "main": "server.js",
   "type": "module",
   "scripts": {
