@@ -80,6 +80,7 @@ const ProductScreen = ({ history, match }) => {
                 </ListGroup.Item>
                 <ListGroup.Item>
                   <Rating
+                      color="cyan"
                     value={product.rating}
                     text={`${product.numReviews} reviews`}
                   />
